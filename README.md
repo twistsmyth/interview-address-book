@@ -16,3 +16,7 @@ Implement a web application where a user can manage an address book
 
 * Login/logout is not required
 
+## How to send this to us
+
+* Send us a link to your public Git repository (GitHub, BitBucket, GitLab, etc)
+* Do not email a zip file containing your code.
