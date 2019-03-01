@@ -1,4 +1,4 @@
-# Realm Digtial Interview Assessment - Address Book
+# Realm Digital Interview Assessment - Address Book
 
 Implement a web application where a user can manage an address book
 
@@ -11,6 +11,12 @@ Implement a web application where a user can manage an address book
 * A user must be able to delete a contact
 * A contact consists of a first name and a last name
 * A contact can have multiple contact numbers, email addresses, etc
+
+## Technologies
+
+* Use any database/datastore
+* Use any backend technology that is appropriate
+* Use any UI technology that is appropriate
 
 ## Assumptions
 
