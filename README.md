@@ -24,5 +24,5 @@ Implement a web application where a user can manage an address book
 
 ## How to send this to us
 
-* Send us a link to your public Git repository (GitHub, BitBucket, GitLab, etc)
+* Send a link to your public Git repository (GitHub, BitBucket, GitLab, etc) to jobs@realmdigital.co.za
 * Do not email a zip file containing your code.
