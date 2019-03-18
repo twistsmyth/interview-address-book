@@ -10,7 +10,7 @@ Implement a web application where a user can manage an address book
 * A user must be able to update an existing contact
 * A user must be able to delete a contact
 * A contact consists of a first name and a last name
-* A contact can have multiple contact numbers, email addresses, etc
+* A contact can have unlimited contact numbers and email addresses
 
 ## Technologies
 
