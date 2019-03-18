@@ -15,8 +15,8 @@ Implement a web application where a user can manage an address book
 ## Technologies
 
 * Use any database/datastore
-* Use any backend technology/framework that is appropriate
-* Use any UI technology/framework that is appropriate
+* Use any backend technology/framework that is appropriate for the position you are applying for
+* Use any UI technology/framework that is appropriate for the position you are applying for
 
 ## Assumptions
 
