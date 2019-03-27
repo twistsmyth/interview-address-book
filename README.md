@@ -28,7 +28,7 @@ Implement a web application where a user can manage an address book
 * clone into public HTTP Server folder
 * rename to cm-php
 * app operates out of this folder
-* optional menu button : once in populate database with dummy data to test 
+* optional menu button : once in populate database with dummy data to test   
 ✩ thank you ✩
 
 ## How to send this to us
